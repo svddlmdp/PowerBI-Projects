@@ -19,10 +19,15 @@ Integration with external data sources like Excel, CSV, and SQL Server.
 Each project includes:
 
 A .pbix file
+
 A short business summary and objective
+
 Key performance indicators tracked
+
 Screenshots and sample visuals
+
 Notes on challenges addressed and business outcomes supported
+
 This repository not only reflects my technical expertise but also my focus on business value, clean design, and user engagement. Whether you’re exploring Power BI for learning or assessing my professional portfolio, I hope these projects demonstrate the quality, clarity, and impact I aim to bring to every analytics solution.
 
 Feel free to fork, download, and try them yourself. Feedback and collaboration are always welcome. If you use or build upon any of these, tag me—I’d love to see what you create!
