@@ -24,9 +24,10 @@ This Power BI dashboard analyzes loan application data to help banking professio
 - **Sample dataset** (`loan_data.csv` or Excel format)
 
 ## 📁 Files Included
-- `BankLoanDashboard.pbix`: Interactive Power BI report
-- `loan_data.csv`: Cleaned and structured dataset
-- `Screenshots/`: Key visuals from the dashboard
+- `bank loan.pbix`: Interactive Power BI report
+- `financial_loan.csv`: Cleaned and structured dataset
+- `BANK LOAN SQLQuery`: SQL Query document
+- `PROBLEM STATEMENT`: Project overview document
 - `README.md`: Documentation for the project
 
 ## ✅ Outcomes
