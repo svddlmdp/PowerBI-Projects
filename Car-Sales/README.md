@@ -24,9 +24,9 @@ This Power BI project analyzes car sales data to uncover trends and provide insi
 - **Sample dataset** (CSV or Excel format)
 
 ## 📁 Files Included
-- `CarSalesDashboard.pbix`: Fully developed Power BI file
-- `car_sales_data.xlsx`: Sample dataset used
-- `Screenshots/`: Visuals of key dashboard pages
+- `Car Sales.pbix`: Fully developed Power BI file
+- `Car Sales.xlsx`: Sample dataset used
+- `Problem Statement`: Project Overview
 - `README.md`: Project documentation
 
 ## ✅ Outcomes
